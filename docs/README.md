@@ -8,7 +8,7 @@ A new model for quickly training and simulating adaptive leaky integrate-and-fir
 
 ## Installing dependencies
 
-Install all required dependencies and activate the block environment using conda.
+Install all required dependencies and activate the blocks environment using conda.
 ```
 conda env create -f environment.yml
 conda activate blocks
@@ -16,7 +16,7 @@ conda activate blocks
 
 ## Getting started tutorial
 
-See the [notebooks/getting_started.ipynb](../notebooks/Tutorial.ipynb) notebook for getting started with our model.
+See the [notebooks/getting_started.ipynb](../notebooks/getting_started.ipynb) notebook for getting started with our model.
 
 ## Reproducing paper results
 
