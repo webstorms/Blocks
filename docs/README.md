@@ -16,11 +16,11 @@ conda activate blocks
 
 ## Getting started tutorial
 
-See the [notebooks/Tutorial.ipynb](../notebooks/Tutorial.ipynb) notebook for getting started with our model.
+See the [notebooks/getting_started.ipynb](../notebooks/Tutorial.ipynb) notebook for getting started with our model.
 
 ## Reproducing paper results
 
-All the paper results can be reproduced using the scripts available in the `scripts` folder. Alternatively, all speedup benchmarks and pretrained models can be found under the releases.
+All the paper results can be reproduced using the scripts available in the `scripts` folder.
 
 ### Running benchmark experiments
 
