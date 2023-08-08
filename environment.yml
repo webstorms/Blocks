@@ -1,0 +1,18 @@
+name: blocks
+dependencies:
+  - python=3.8
+  - pytorch::pytorch
+  - pytorch::torchvision
+  - nvidia::cudatoolkit=11.7
+  - matplotlib
+  - seaborn
+  - pandas
+  - conda-forge::h5py
+  - nb_conda_kernels
+  - ipywidgets
+  - pytest
+  - pip:
+      - brainbox
+      - jupyter
+      - allensdk
+      - --editable .
